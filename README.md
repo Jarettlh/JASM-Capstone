@@ -4,6 +4,12 @@ INFO 490 Capstone Project (AA-04 Team JASM)
 
 
 
+### Landing Page:
+
+<https://jarettlh.github.io/JASM-Capstone/>
+
+
+
 ### Problem Statement
 
 How might families and groups of close friends maintain a safe, private collection of memories so that they can always remember shared moments and maintain a sense of identity?
