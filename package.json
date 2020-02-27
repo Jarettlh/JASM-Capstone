@@ -1,0 +1,19 @@
+{
+  "name": "jasm-capstone",
+  "version": "1.0.0",
+  "description": "20202 Capstone Project by Team JASM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarettlh/JASM-Capstone.git"
+  },
+  "author": "Team JASM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarettlh/JASM-Capstone/issues"
+  },
+  "homepage": "https://github.com/Jarettlh/JASM-Capstone#readme"
+}
