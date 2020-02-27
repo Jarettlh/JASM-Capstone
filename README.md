@@ -12,9 +12,11 @@ How might families and groups of close friends maintain a safe, private collecti
 
 ### Technologies Used
 
+#### MERN:
+- MongoDB
+- Express
 - React Native
 - node.js
-- AWS
 
 
 
