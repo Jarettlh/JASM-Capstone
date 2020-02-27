@@ -3,7 +3,7 @@ git add .
 git commit -m “commit message”
 git push origin master
 
-Pushing changes to Heroku:
+Pushing changes to Heroku, link to site will appear at the end of block:
 git add .
 git commit -m “commit message”
 git push heroku master
@@ -16,3 +16,10 @@ npm run client
 
 Run app locally on http://localhost:3001/ (SERVER ONLY - Express)
 npm run start
+
+Database info:
+MySQL
+Host: us-cdbr-iron-east-04.cleardb.net
+Port: 3306
+Password: b8e379f3ec9790
+Database Name: heroku_b6b8224d147a38f
