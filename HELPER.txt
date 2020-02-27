@@ -1,0 +1,18 @@
+Pushing local changes:
+git add .
+git commit -m “commit message”
+git push origin master
+
+Pushing changes to Heroku:
+git add .
+git commit -m “commit message”
+git push heroku master
+
+Run app locally on http://localhost:3001/ (server and client)
+npm run dev
+
+Run app locally on http://localhost:3001/ (CLIENT ONLY - React)
+npm run client
+
+Run app locally on http://localhost:3001/ (SERVER ONLY - Express)
+npm run start
