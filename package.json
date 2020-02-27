@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jarettlh/JASM-Capstone/issues"
   },
-  "homepage": "https://github.com/Jarettlh/JASM-Capstone#readme"
+  "homepage": "https://github.com/Jarettlh/JASM-Capstone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
